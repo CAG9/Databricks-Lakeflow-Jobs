@@ -20,6 +20,7 @@
 
 Lakeflow Jobs organizes complex workflows into a structured, manageable hierarchy.
 
+
 **Hierarchy:**
 * **Job:** The parent container for the entire workflow, managing scheduling and triggers.
 * **Task:** Individual steps within a job, such as a Python Notebook, SQL query, or Delta Live Tables (DLT) pipeline.
