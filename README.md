@@ -1,12 +1,9 @@
 # Databricks Lakeflow Jobs: From ZERO to PRO
- This guide covers the evolution of orchestration, native scheduling, and building resilient data pipelines within the Databricks Data Intelligence Platform.
+This guide covers the evolution of orchestration, native scheduling, and building resilient data pipelines within the Databricks Data Intelligence Platform.
 ---
-
 ## Introduction to Lakeflow Jobs
 
 **Lakeflow Jobs** is the native orchestration framework built into Databricks. It serves as the "conductor" for data engineering, eliminating the need for third-party tools like Airflow or Azure Data Factory.
-
-
 
 **Key Concepts:**
 * **Native Orchestration:** Built directly into the workspace for seamless integration with Unity Catalog.
